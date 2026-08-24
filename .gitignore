@@ -1,0 +1,16 @@
+# Resultados generados (reproducibles con los scripts)
+results/
+results_experiment/
+results_scientific/
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
