@@ -1,0 +1,4 @@
+nivel,area_px,r_eq_px,r_eq_um_aprox,circularidad,solidez,centroide_y,centroide_x,toca_roi
+69,35,3.34,48.1,0.271,1.0,132.4,237.3,0
+70,57,4.26,61.4,0.1771,1.0,133.7,238.1,0
+71,469,12.22,176.2,0.0973,0.6537,90.2,216.4,1

@@ -1,0 +1,8 @@
+imagen,confianza,motivos,um_por_px_aprox,centro_v1_y,centro_v1_x,centro_v2_y,centro_v2_x,desplazamiento_centro_px,centro_en_borde,v1_codo_r_px,v1_codo_circ,v1_mejor_r_px,v1_mejor_circ,v2_modelo_profundidad_D,v2_modelo_sigma_px,v2_modelo_r50_px,v2_modelo_r50_um,v2_modelo_pendiente_c,v2_modelo_R2,v2_dispersion_sigma_sectores,v2_contorno_nivel,v2_contorno_r_eq_px,v2_contorno_circ,v2_contorno_solidez,v2_desacuerdo_modelo_contorno,v2_codo_area_nivel_r_px,v2_codo_area_nivel_circ,v2_niveles
+im0031,alta,,15.3,307,290,308,298,8.1,0,85.0,0.318,28.3,0.696,18.4,18.3,21.6,330.0,0.119,0.9978,0.178,76,20.6,0.843,1.0,0.044,26.7,0.68,18
+im0114,media,circ=0.47; solidez=0.84,14.42,293,334,290,333,3.2,0,14.2,0.294,22.4,0.642,22.0,32.2,37.9,546.0,0.255,0.9886,0.201,80,41.4,0.474,0.844,0.092,33.9,0.55,34
+im0115,media,dispersión σ entre sectores=0.37,14.42,309,396,307,393,3.6,0,83.1,0.321,45.2,0.622,24.4,20.0,23.5,339.0,0.404,0.9965,0.37,94,25.1,0.816,1.0,0.068,31.3,0.714,44
+im0163,baja,centro en el borde del área del paso 8; el perfil no sigue una depresión foveal (R² bajo); contorno de media profundidad irregular,14.42,144,244,140,242,4.5,1,33.5,0.081,54.3,0.13,38.6,4.0,4.8,69.0,-0.032,0.9199,0.458,71,12.2,0.097,0.654,1.568,,,3
+im0238,media,circ=0.40; solidez=0.78; dispersión σ entre sectores=0.36; desacuerdo modelo/contorno=0.40,14.42,278,189,279,189,1.0,0,78.1,0.443,31.8,0.561,27.8,22.2,26.1,377.0,0.044,0.9887,0.356,57,36.6,0.404,0.776,0.4,21.2,0.854,16
+im0275,alta,,14.42,325,255,327,256,2.2,0,41.2,0.664,37.9,0.706,19.3,16.5,19.4,279.0,0.2,0.9968,0.099,120,23.7,0.702,0.945,0.221,41.7,0.681,26
+im0299,media,circ=0.54,14.42,324,395,329,388,8.6,0,35.7,0.523,31.2,0.575,33.0,29.7,34.9,504.0,0.053,0.9938,0.263,142,36.3,0.54,0.897,0.039,47.4,0.409,33
